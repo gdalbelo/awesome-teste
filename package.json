@@ -1,0 +1,14 @@
+{
+  "name": "awesome-test",
+  "version": "1.0.0",
+  "description": "minha primeira app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "valdemir navarro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
